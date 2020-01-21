@@ -46,6 +46,13 @@ const bob = {
 elizabethSanger.volunteerList.push(elizabethSanger.volunteer(bob));
 console.log(elizabethSanger.volunteerList);
 
+elizabethSanger.platform.crime.replace("I am the law.");
+console.log(elizabethSanger.platform.crime);
+
+elizabethSanger.platform.add("honesty: false,");
+
+
+
 
 
 
